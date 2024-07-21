@@ -416,7 +416,7 @@ REPLACE INTO `studio` (`id`, `name`, `description`, `detail`, `picture`, `nb_roo
 	(1, 'Studio Calliope', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.', 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.', NULL, 5, 'studio-calliope', 'incididunt ut labore et dolore magna', '["1", "2", "3"]'),
 	(2, 'Studio 02 ', 'Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.', NULL, NULL, 2, 'studio02', 'incididunt ut labore et dolore magna', NULL),
 	(3, 'Studio 03', 'Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. ', NULL, NULL, 10, 'studio03', 'incididunt ut labore et dolore magna', NULL),
-	(4, 'Studio Thalie', 'lalalalalala', NULL, NULL, 5, 'studio-thalie', 'incididunt ut labore et dolore magna', NULL);
+	(4, 'Studio 04', 'lalalalalala', NULL, NULL, 5, 'studio-thalie', 'incididunt ut labore et dolore magna', NULL);
 
 -- Listage de la structure de table project. subscription
 CREATE TABLE IF NOT EXISTS `subscription` (
